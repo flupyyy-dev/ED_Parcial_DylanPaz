@@ -3,6 +3,8 @@
 
 ### 📌 Descripción del Proyecto y Link de vídeo youtube
 
+https://youtu.be/gU2_BF392f0
+
 En el presente proyecto se implementaron ocho algoritmos en lenguaje Java, desarrollados en versión iterativa y recursiva, con el objetivo de analizar su rendimiento y determinar su complejidad algorítmica (Big-O) a partir de datos experimentales.
 
 Los algoritmos implementados fueron:
